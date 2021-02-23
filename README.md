@@ -1,16 +1,29 @@
-### Hi there 👋
+## Gabriel Periotto
 
-<!--
-**periottocosta/periottocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/periottocosta)](https://github.com/periottocosta)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-periotto-160898149//)](https://www.linkedin.com/in/gabriel-periotto-160898149//)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:periottocosta@gmail.com)](mailto:periottocosta@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_.gabriellopes/?hl=pt-br)
 
-Here are some ideas to get you started:
+### :wave: About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 
+
+### 🚀 Technology and Tools
+
+Python
+django
+sass
+js
+react native
+postgres
+GCP
+MySQL
+Java
+AdobeXD
+
+### 📚 Studding 
+React
+NextJS
+Docker
+Firebase
