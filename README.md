@@ -1,11 +1,11 @@
 ## Gabriel Periotto
 
 ### Apps
-[REISE][https://play.google.com/store/apps/details?id=com.fit.reise]
+- [REISE](https://play.google.com/store/apps/details?id=com.fit.reise)
 
-[BUSCAONIBUS] [https://play.google.com/store/apps/details?id=br.com.buscaonibus.mobile]
+- [BUSCAONIBUS](https://play.google.com/store/apps/details?id=br.com.buscaonibus.mobile)
 
-[+SAÚDE] [https://play.google.com/store/apps/details?id=com.plus.health]
+- [+SAÚDE](https://play.google.com/store/apps/details?id=com.plus.health)
 
 ### 🚀 Technologies
 
